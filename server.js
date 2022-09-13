@@ -19,3 +19,12 @@ let car = new Car('blue');
 car.toString();
 if (car instanceof Car) console.log("car is an instance of Car");
 if (car instanceof Vehicle) console.log("car is an instance of Vehicle");
+
+console.log(4/[]);
+
+let helloWorld = "Hello World!";
+
+const user = {
+    name: "Hayes",
+    id: 0,
+};
